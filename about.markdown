@@ -1,18 +1,20 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Minim-Alz
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Ce blog regroupe des réflexions autour d’idées variées dont :
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+* L’accessibilité
+* L’alimentation
+* La cartographie
+* L’environnement
+* La mobilité
+* Le « *low-tech* »
+* L’urbanisme
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Liste non exhaustive et appelant à être étoffée.
 
+---
 
-[jekyll-organization]: https://github.com/jekyll
+Dans l’esprit [LowTech](https://solar.lowtechmagazine.com/about.html), [HundredRabbits](https://100r.co/site/home.html), et autres, ce site a été bricolé (plus que construit) à l’aide de [Jekyll](https://github.com/jekyll/jekyll) et hébergé sur [GitHub](https://pages.github.com/). À défaut d’un port Jekyll de [SustyWP](https://sustywp.com/), le thème actuel est [NoStylePlease](https://github.com/riggraz/no-style-please).

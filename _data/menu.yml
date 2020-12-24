@@ -2,11 +2,9 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
- - title: all posts
+ - title: Billets
    post_list: true
- - title: Menu
-   entries:
-   - title: À propos
-     url: about.html
-   - title: Archives
-     url: archive.html
+ - title: À propos
+   url: about
+ - title: Archives
+   url: archives

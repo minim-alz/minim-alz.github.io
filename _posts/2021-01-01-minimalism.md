@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Énième blog minimaliste"
+date:   2021-01-01 10:00:00 +0100
+categories: minimalisme humain
+---
+
+Premier billet d’une série qui viendra étoffer ce blog, autant en profiter pour poser le type de contenu qui arrivera ainsi que ce que ce blog n’est pas. Tous les minimalismes se ressemblent et aucun n’est identique. Du loft new-yorkais à la pièce japonaise traditionnelle, en passant par les garages qui débordent, tout le monde a son propre minimalisme. Pour autant, le minimalisme n’est-il pas plus proche de l’absence que le présent ?
+
+# Le prix de la possession
+
+Nos possessions nous définissent-elles ? Ma première fracture a été à 18 ans en quittant le domicile familial. Dans l’impossibilité de conserver mon environnement, j’ai fait un choix. Moins de confort, un maximum de fonctionnalité. « Minimalisme ». L’idée décrit de nombreux éléments, parfois très différents. Sémantiquement le mot s’oppose au maximalisme, l’idée du « Toujours plus ». Accumuler de biens est source de nombreux désagréments, de consommation. Dans un environnement aux ressources limitées, comment accommoder toujours plus de matériel ? Outre l’espace nécessaire au rangement, posséder implique un entretien. Tout matériel nécessite un minimum d’entretien peu importe la promesse « Buy It For Life » (achat à vie). Que dire de la charge mentale générée par la seule possession de biens ? Combien de temps prendrait l’inventaire de ce qui se cache derrière les portes et tiroirs ? Le thème bien plus large et ayant pour nature d’être dynamique n’est pas voué à être défini comme réponse unique. Chacun le définira à sa manière. Une des formes majeures de minimalisme est celui qui s’achète. Quelle somme est investie dans les nouvelles technologies pour les rendre plus épurées ? Peu importe leur accessibilité aux classes les plus aisées, la simplicité a un prix. Combien de produits sont mis sur le marché au quotidien mettant en valeur l’aspect minimaliste appelant à se débarrasser d’objets encore en parfait état ?
+
+
+# Minimalisme humain
+
+Le minimalisme est indéfini et ne s’achète pas. Il ne s’agit pas d’un résultat proposé au public mais au contraire d’une absence. Absence de possession, absence de besoin. Quoi de plus minimaliste pour une télévision que la télévision qui n’existe pas ? Énième dépendance, au service audio-visuel ; au réseau électrique ; au surplus d’information déjà en excès par rapport aux capacité de traitement humain. Une vie plus saine demande plus de résilience, d’autonomie, d’indépendance. Une société à échelle humaine. S’opposer à la complexité et redonner sa place à l’Homme au sein de la communauté limitant son impact environnemental. Y arriver demande du travail et un effort constant pour adapter nos réponses aux besoins en constant changement. L’Homme n’est pas défini par ce qu’il crée ou possède mais par son existence et la communication. Il est indispensable de favoriser l’accès et le partage des informations et c’est la raison d’exister de ce blog, un espace ouvert se voulant accessible au plus grand nombre. Mis en ligne par Jekyll et hébergé sous GitHub, le contenu est entièrement rédigé en Markdown et limite au maximum le poids des pages pour à la fois éliminer les problèmes de compatibilité ainsi que diminuer le coût en ressources pour y accéder. J’aurai l’occasion d’y revenir par la suite.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "L’Accessibilité comme ce qu’elle est"
-%date:
+%date: 2021-02-01 10:00:00 +0100
 categorie:accessibilité
 tags: accessibilité, standards, handicap
 ---

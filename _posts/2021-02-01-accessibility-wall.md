@@ -2,7 +2,7 @@
 layout: post
 title: "L’Accessibilité comme ce qu’elle est"
 date: 2021-02-01 10:00:00 +0100
-categories:accessibilité
+categories: accessibilité
 ---
 
 Rendre du contenu accessible est une méthode sure pour qu’il soit diffusé. Cela peut être à but informatif mais également dans un but d’évolution pour pouvoir être modifié et amélioré entre les mains de multiples acteurs. La création de standards permet de définir un élément de manière à rendre son évolution la plus homogène possible, mais elle a l’inconvénient de mettre de côté des questions importantes en prenant pour acquis les bases sur lesquelles il repose.
